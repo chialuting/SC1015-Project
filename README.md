@@ -12,6 +12,8 @@ Team Members:
   2) Lai Shi Hong (Classification)
   3) Daniel Li Runze (Linear Regression)
 
+Context of Dataset: Building a model to predict whether a customer would be interested in Vehicle Insurance is extremely helpful for the company to help it plan its communication strategy to reach out to those customers and optimise its business model and revenue. 
+
 Problem Statement:
 How different variables affect the receptiveness of cross-selling of insurance among existing policyholders?
 What is the pricing strategy of the insurance company?
