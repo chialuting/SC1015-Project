@@ -5,12 +5,12 @@ Application of the Machine Learning Pipeline in the order of
   1) Data Extraction & Preparation
   2) Exploratory Data Analysis
   3) Classification
-  4) Linear Regression
+  4) Regression
 
 Team Members:
   1) Chia Lu Ting (EDA)
   2) Lai Shi Hong (Classification)
-  3) Daniel Li Runze (Linear Regression)
+  3) Daniel Li Runze (Regression)
 
 Context of Dataset: Building a model to predict whether a customer would be interested in Vehicle Insurance is extremely helpful for the company to help it plan its communication strategy to reach out to those customers and optimise its business model and revenue. 
 
@@ -26,11 +26,12 @@ Models Used:
 		3) MLP
 		4) XGBoost
 	
-	Linear Regression:
-		1) Least Square
-		2) Gradient Descent
-		3) Adams Method
-		4) Singular Value Decomposition
+	Regression:
+		1) LinearRegression
+		2) DecisionTreeRegressor
+		3) RandomForestRegressor
+		4) TransformedTargetRegressor
+		5) MLPRegressor
 
 Conclusion:
 
