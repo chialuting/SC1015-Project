@@ -31,6 +31,7 @@ Models Used:
 		4) Singular Value Decomposition
 
 Conclusion:
+
 	1) 13-18% of people are interested in the cross-sell
 	2) Company should target people who faced vehicle damage, have older vehicles, or are in the older age groups.
 	3) Insufficient data on customer background to conclusively come up with their pricing mechanism. 
